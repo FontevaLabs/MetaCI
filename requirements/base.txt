@@ -4,7 +4,7 @@ setuptools==49.2.0
 cumulusci==3.16.0
 
 # Django
-django==2.2.15
+django==3.1
 
 # Configuration
 django-environ==0.4.5
